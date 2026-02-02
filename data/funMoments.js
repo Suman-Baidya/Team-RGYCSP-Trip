@@ -8,10 +8,40 @@ export const funMoments = [
     caption: "Sweet Golab Jamun Fun Moments"
   },
   {
+    id: "image-3",
+    type: "image",
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769765882/ecoPark_05_nnu9dt.jpg", // Your Cloudinary Link
+    caption: "Not looking the behind statue's face!"
+  },
+  {
+    id: "video-2",
+    type: "video", // 16:9 Standard Video
+    youtubeId: "VegKmJ0mqvA", //https://youtu.be/VegKmJ0mqvA
+    caption: "Ghost Prank moment in Park Prime Hotel"
+  },
+  {
+    id: "image-12",
+    type: "image",
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769765084/digha_04_izqynx.jpg", // Your Cloudinary Link
+    caption: "OMG! they are looking each other..."
+  },
+    {
+    id: "video-1",
+    type: "video", // 16:9 Standard Video
+    youtubeId: "twk2XTQKTAM",
+    caption: "Sharmila’s Joyful Ashirbad to Ma’am"
+  },
+  {
     id: "shorts-2",
     type: "short", // 9:16 Vertical Video 
     youtubeId: "A9Pt0Uve3WA", // The ID from the Shorts URL  https://youtube.com/shorts/A9Pt0Uve3WA?feature=share
     caption: "Park Prime Hotel Fun Moments"
+  },
+   {
+    id: "image-1",
+    type: "image",
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769831711/aaiBuro_mp_03_fzqw7t.jpg", // Your Cloudinary Link
+    caption: "Ashirbad Moments: Abhi & Ma’am"
   },
   {
     id: "shorts-3",
@@ -26,6 +56,19 @@ export const funMoments = [
     caption: "Computer Center Cleaning Fun Moments"
   },
   {
+    id: "image-2",
+    type: "image",
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769766731/taki_11_nkge9d.webp", // Your Cloudinary Link
+    caption: "Walking like Minister for Janta..."
+  },
+  
+  {
+    id: "image-4",
+    type: "image",
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769765905/ecoPark_13_zsbhmf.jpg", // Your Cloudinary Link
+    caption: "Look the smile of Mr. Biswas."
+  },
+  {
     id: "shorts-5",
     type: "short", // 9:16 Vertical Video 
     youtubeId: "Mt_CleHmfO4", // The ID from the Shorts URL  https://youtube.com/shorts/Mt_CleHmfO4?feature=share
@@ -38,45 +81,65 @@ export const funMoments = [
     caption: "Dirary Selling Fun in the Rain"
   },
   {
+    id: "image-6",
+    type: "image",
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769765750/thakurNagar_01_qpvb2d.jpg", // Your Cloudinary Link
+    caption: "Train selfie with all."
+  },
+  {
     id: "shorts-7",
     type: "short", // 9:16 Vertical Video 
     youtubeId: "GJnzjypST6Y", // The ID from the Shorts URL  https://youtube.com/shorts/GJnzjypST6Y?feature=share
     caption: "Exam Evening Chill Fun Moments"
-  },
+  },  
   {
+    id: "shorts-9",
+    type: "short", // 9:16 Vertical Video 
+    youtubeId: "yHxVLIZ8mEk", // The ID from the Shorts URL  https://youtube.com/shorts/yHxVLIZ8mEk?feature=share
+    caption: "Boat Ride Fun Moments - Taki"
+  }, 
+  {
+    id: "image-5",
+    type: "image",
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769765949/ecoPark_27_n3rl8p.jpg", // Your Cloudinary Link
+    caption: "Soo Cold at 7am in The Winter Morning"
+  },
+   {
     id: "shorts-8",
     type: "short", // 9:16 Vertical Video 
     youtubeId: "t7sNMJdxqPY", // The ID from the Shorts URL  https://youtube.com/shorts/t7sNMJdxqPY?feature=share
     caption: "Octopus Eating -Fish Market, Digha"
   },
-
-
-
-
   {
-    id: "image-1",
+    id: "image-7",
     type: "image",
-    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769831711/aaiBuro_mp_03_fzqw7t.jpg", // Your Cloudinary Link
-    caption: "Ashirbad Moments: Abhi & Ma’am"
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769765212/saraswatiPuja_11_umkfbr.jpg", // Your Cloudinary Link
+    caption: "What are they dooing in the publick..?"
   },
   {
-    id: "image-2",
+    id: "image-8",
+    type: "image",
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769765190/saraswatiPuja_21_nl2k90.jpg", // Your Cloudinary Link
+    caption: "What are looking Abhi at the top ?"
+  },
+  {
+    id: "image-9",
     type: "image",
     src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769761067/musiuam_02_kh4zfk.webp", // Your Cloudinary Link
     caption: "Victoriya’s Rainy Umbrella Selfie"
   },
   {
-    id: "video-1",
-    type: "video", // 16:9 Standard Video
-    youtubeId: "twk2XTQKTAM",
-    caption: "Sharmila’s Joyful Ashirbad to Ma’am"
-  },
+    id: "image-10",
+    type: "image",
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769765123/digha_19_gdcqzf.jpg", // Your Cloudinary Link
+    caption: "Selfie at Digha Beach with Team"
+  },  
   {
-    id: "video-2",
-    type: "video", // 16:9 Standard Video
-    youtubeId: "VegKmJ0mqvA", //https://youtu.be/VegKmJ0mqvA
-    caption: "Sharmila’s Joyful Ashirbad to Ma’am"
-  },
+    id: "image-13",
+    type: "image",
+    src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769764185/birthDayRsnt_09_ucc8f9.webp", // Your Cloudinary Link
+    caption: "Namaste to all ..!!"
+  },  
   {
     id: "video-3",
     type: "video", // 16:9 Standard Video
