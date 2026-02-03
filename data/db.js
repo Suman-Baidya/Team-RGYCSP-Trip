@@ -13,7 +13,7 @@ export const members = [
     name: "Sharmila Biswas",
     role: "Beauti Seekar",
     image:
-      "https://res.cloudinary.com/dmhipemqk/image/upload/v1769770461/Profile_Sharmila_unr0x0.jpg",
+      "https://res.cloudinary.com/dmhipemqk/image/upload/v1770136531/Profile_Sharmila_uspmwp.jpg",
     bio: "Captures beauty, cares deeply, shares joy.",
     whatsapp: "",
   },
@@ -31,7 +31,7 @@ export const members = [
     name: "Tithi Ghosh",
     role: "The Artist",
     image:
-      "https://res.cloudinary.com/dmhipemqk/image/upload/v1769770165/Profile_Tithi_xo3nwj.jpg",
+      "https://res.cloudinary.com/dmhipemqk/image/upload/v1770136512/Profile_Tithi_xo3nwj.jpg",
     bio: "Seeing the world through a creative lens.",
     whatsapp: "",
   },

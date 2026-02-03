@@ -71,8 +71,8 @@ export const funMoments = [
   {
     id: "shorts-5",
     type: "short", // 9:16 Vertical Video 
-    youtubeId: "Mt_CleHmfO4", // The ID from the Shorts URL  https://youtube.com/shorts/Mt_CleHmfO4?feature=share
-    caption: "Hotel Night Fun Moments"
+    youtubeId: "_rWklDJgmuo", // The ID from the Shorts URL  https://youtube.com/shorts/_rWklDJgmuo?feature=share
+    caption: "Thakur Nagar Fun Moments"
   },
   {
     id: "shorts-6",
@@ -123,6 +123,30 @@ export const funMoments = [
     caption: "What are looking Abhi at the top ?"
   },
   {
+    id: "shorts-10",
+    type: "short", // 9:16 Vertical Video 
+    youtubeId: "sdiZ7Boi0hw", // The ID from the Shorts URL  https://youtube.com/shorts/sdiZ7Boi0hw
+    caption: "Fuchka Party 2.0 Fun Moments"
+  },
+  {
+    id: "shorts-11",
+    type: "short", // 9:16 Vertical Video 
+    youtubeId: "xwDEutEv72Y", // The ID from the Shorts URL  https://youtube.com/shorts/xwDEutEv72Y
+    caption: "Aaiburo Bhaat Fun Moments at MP"
+  },
+  {
+    id: "shorts-12",
+    type: "short", // 9:16 Vertical Video 
+    youtubeId: "tjC4oKhX6Lg", // The ID from the Shorts URL  https://youtube.com/shorts/tjC4oKhX6Lg?feature=share
+    caption: "Sir Treat to All Fun Moments"
+  },
+  {
+    id: "shorts-13",
+    type: "short", // 9:16 Vertical Video 
+    youtubeId: "7FY-eOx4BJk", // The ID from the Shorts URL  https://youtube.com/shorts/7FY-eOx4BJk?feature=share
+    caption: "Eco Park Fun Moments Captured.."
+  },
+  {
     id: "image-9",
     type: "image",
     src: "https://res.cloudinary.com/dmhipemqk/image/upload/v1769761067/musiuam_02_kh4zfk.webp", // Your Cloudinary Link
@@ -145,6 +169,12 @@ export const funMoments = [
     type: "video", // 16:9 Standard Video
     youtubeId: "QD34J4v6TIE", //https://youtu.be/QD34J4v6TIE
     caption: "AI Prank Moments in Birthday, Restaurant..."
+  },
+  {
+    id: "video-4",
+    type: "video", // 16:9 Standard Video
+    youtubeId: "4wQL2HHsq3w", //https://youtu.be/4wQL2HHsq3w
+    caption: "Saraswati Puja Fut at Computer center"
   },
   //{
   //   id: 3,
